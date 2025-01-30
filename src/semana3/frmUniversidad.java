@@ -51,7 +51,7 @@ public class frmUniversidad extends javax.swing.JFrame {
         txtSalida.append("Pensión Actual: " + actPen);
         txtSalida.append("Descuento: " + desc);
         txtSalida.append("Nueva Pensión: " + nuevaPen);
-        txtSalida.append(" cici 30 so");
+        txtSalida.append(" Emerson Yauri Tapara");
         
     }
     
